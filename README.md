@@ -12,7 +12,7 @@
 # インストール方法
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/Ryo0927/robosys_ros.git
+git clone https://github.com/Ryo0927/robosys_kadai2.git
 ```
 ---
 # 実行方法
